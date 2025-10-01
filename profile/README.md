@@ -8,7 +8,7 @@ Plataforma de comércio eletrônico modular que permite gestão de produtos, usu
 
 ## Microsserviços
 
-- **appvue**: APIS laravel
+- **Estrutura**: APIS laravel
 
 ## Tecnologias
 
