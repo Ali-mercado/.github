@@ -8,12 +8,7 @@ Plataforma de comércio eletrônico modular que permite gestão de produtos, usu
 
 ## Microsserviços
 
-- **appvue**: Interface frontend em Vue.js
-- **catalogo**: Gestão de produtos e categorias
-- **usuario**: Autenticação e gerenciamento de usuários
-- **pagamento**: Processamento de pagamentos
-- **cep**: Consulta e validação de endereços
-- **db**: Banco de dados e migrações
+- **appvue**: APIS laravel
 
 ## Tecnologias
 
